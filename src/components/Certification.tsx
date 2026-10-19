@@ -1,5 +1,5 @@
 import JavaScript from '../assets/JavaScript.jpg'
-import FrontEnd from '../assets/Front-End.jpg'
+import FrontEnd from '../assets/Front-End Librarywww.freecodecamp.org.jpeg'
 import Udacity from '../assets/Udacity.jpeg'
 import GDG from '../assets/GDG AASTU.jpeg'
 import Arsi from '../assets/Arsi.jpg'
