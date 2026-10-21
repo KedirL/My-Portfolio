@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import logo from '../assets/logo1.jpg'
+import logo from '../assets/NewLogo.png'
 import { motion } from 'framer-motion';
 import {
   Home,
