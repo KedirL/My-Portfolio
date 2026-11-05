@@ -87,7 +87,7 @@ const Header2: React.FC = () => {
               Kedir Lemecha
             </h1>
             <span className="text-[11px] sm:text-xs text-zinc-500 dark:text-zinc-400 font-medium">
-              Frontend Developer
+              Full Stack Developer
             </span>
           </div>
         </motion.div>
